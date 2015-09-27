@@ -4,6 +4,7 @@
 ##workshop
 + http://githowto.com/ru
 + https://try.github.io/levels/1/challenges/1 (+)
++ http://gitreal.codeschool.com/
 
 ##Обучащий ведео-курс
 http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
