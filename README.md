@@ -34,3 +34,4 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 + git flow
 + rebase
 + Ветка на каждый чих
++ git add '*.txt'
