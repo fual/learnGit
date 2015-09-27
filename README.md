@@ -35,3 +35,5 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 + rebase
 + Ветка на каждый чих
 + WilCard. git add '*.txt' . Don't forget the quotes!
++ The name of our remote is origin and the default local branch name is master. The -u tells Git to remember the parameters, so that next time we can simply run git push and Git will know what to do. Go ahead and push it!
+git push -u origin master
