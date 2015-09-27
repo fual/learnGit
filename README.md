@@ -19,6 +19,9 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 
 ##Книга
 
+##Дополнительно
++ http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html - надстройка над гитом для гит флоу
+
 #Выводы
 
 + Коммитить нужно частно, но атомарно
