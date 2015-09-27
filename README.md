@@ -18,6 +18,7 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 
 
 ##Книга
+- http://firstaidgit.ru/ FAQ
 
 ##Дополнительно
 + http://geektimes.ru/post/248744/ - Интервью с Линусом Торвальдсом
