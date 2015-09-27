@@ -14,13 +14,15 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 + 007. Системы контроля версий - Сергей Сергеев - ШРИ (+)
 
 ##Cтатьи
-+ http://geektimes.ru/post/248744/ - Интервью с Линусом Торвальдсом
+- http://habrahabr.ru/post/106912/ Git Flow
 
 
 ##Книга
 
 ##Дополнительно
++ http://geektimes.ru/post/248744/ - Интервью с Линусом Торвальдсом
 + http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html - надстройка над гитом для гит флоу
++ TortoiseGit 
 
 #Выводы
 
