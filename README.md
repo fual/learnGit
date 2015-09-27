@@ -38,3 +38,6 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 + The name of our remote is origin and the default local branch name is master. The -u tells Git to remember the parameters, so that next time we can simply run git push and Git will know what to do. Go ahead and push it!
 git push -u origin master
 + Git Hooks
++ git stash:
+Sometimes when you go to pull you may have changes you don't want to commit just yet. One option you have, other than commiting, is to stash the changes.
+Use the command 'git stash' to stash your changes, and 'git stash apply' to re-apply your changes after your pull.
