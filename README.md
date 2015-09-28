@@ -25,6 +25,12 @@ http://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html (%)
 + http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html - надстройка над гитом для гит флоу
 + TortoiseGit 
 
+
+#Вопросы на которые надо ответить
+##Что такое rebase?
+##Что такое git flow, альтернативы
+##Как использовать stash
+
 #Выводы
 
 + Коммитить нужно частно, но атомарно
