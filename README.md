@@ -2,7 +2,7 @@
 Как я повышал скилл в git
 
 ##workshop
-+ http://githowto.com/ru
++ [Git How To — интерактивный тур](http://githowto.com/ru)
 + https://try.github.io/levels/1/challenges/1 (+)
 + http://gitreal.codeschool.com/
 
