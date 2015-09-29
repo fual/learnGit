@@ -14,7 +14,7 @@
 
 ##Cтатьи
 - [Git Flow](http://habrahabr.ru/post/106912/)
-- [Git Rebase: руководство по использованию]http://habrahabr.ru/post/161009/
+- [Git Rebase: руководство по использованию](http://habrahabr.ru/post/161009/)
 
 
 ##Книга
