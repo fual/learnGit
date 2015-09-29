@@ -15,7 +15,7 @@
 ##Cтатьи
 - [Git Flow](http://habrahabr.ru/post/106912/)
 - [Git Rebase: руководство по использованию](http://habrahabr.ru/post/161009/)
-
+- [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
 
 ##Книга
 - http://firstaidgit.ru/ FAQ
