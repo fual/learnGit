@@ -48,3 +48,4 @@ git push -u origin master
 + git stash:
 Sometimes when you go to pull you may have changes you don't want to commit just yet. One option you have, other than commiting, is to stash the changes.
 Use the command 'git stash' to stash your changes, and 'git stash apply' to re-apply your changes after your pull.
++ Вспомогательные ветки надо через определенное время удалять
