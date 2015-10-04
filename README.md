@@ -11,9 +11,10 @@
 
 ##Общие короткие видео
 + 007. Системы контроля версий - Сергей Сергеев - ШРИ (+)
++ [A short introduction to Git Flow](https://vimeo.com/16018419)
 
 ##Cтатьи
-- [Git Flow](http://habrahabr.ru/post/106912/)
+- [Git Flow](http://habrahabr.ru/post/106912/) (+)
 - [Git Rebase: руководство по использованию](http://habrahabr.ru/post/161009/)
 - [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
 
